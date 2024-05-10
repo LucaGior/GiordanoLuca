@@ -1,0 +1,17 @@
+img {
+    width: 150px;
+    padding: 5px;
+}
+
+#main {
+    display: flex;
+    gap: 50px;
+}
+#container1{
+    padding: 20px;
+    width: 50%;
+}
+#container2{
+    padding: 20px;
+    width: 50%;
+}
